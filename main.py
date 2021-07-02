@@ -1,6 +1,6 @@
 # Omar Mehmood Calculator 6/27/2021
 
-print('1)Addition\n2)Subtraction\n3)Multiplication\n4)Division')
+print("1) Addition\n2) Subtraction\n3) Multiplication\n4) Division")
 selection = int(input("\nSELECTION: "))
 
 if selection == 1:
